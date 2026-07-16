@@ -1,0 +1,11 @@
+#Taxon_ID	Increase	Decrease
+Hleu<1>	472	2016
+<8>	497	899
+Mglob<2>	748	2353
+<9>	160	69
+Pliv<3>	668	2084
+<10>	2362	320
+Spurp_prefixed<4>	3525	687
+<11>	769	245
+Lvar<5>	2845	835
+Lpic<6>	1576	1468

@@ -1,0 +1,11 @@
+#Taxon_ID	Increase	Decrease
+Hleu<1>	13	7
+<8>	7	13
+Mglob<2>	0	20
+<9>	14	2
+Pliv<3>	14	4
+<10>	5	14
+Spurp_prefixed<4>	10	9
+<11>	0	16
+Lvar<5>	1	16
+Lpic<6>	3	13
